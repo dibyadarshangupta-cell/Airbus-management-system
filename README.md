@@ -30,6 +30,8 @@ Real-life resemblance to databases
 
 Code checks whether files exist before reading.
 
-Prevents runtime errors like segmentation faults.
+Prevents runtime errors like segmentation fault
 
-![Uploading Screenshot 2025-11-26 101254.png…]()
+
+<img width="347" height="418" alt="Screenshot 2025-11-26 101254" src="https://github.com/user-attachments/assets/24085a16-5979-4117-bedd-1022e8d9412b" />
+
